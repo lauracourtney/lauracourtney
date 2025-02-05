@@ -10,7 +10,7 @@
 - 🎯 **Junior Full-Stack Software Engineer** with a background in **Operations & Project Management**  
 - 🌱 **Currently Learning**: Scalable backend architecture, DevOps fundamentals, and API security  
 - 🛶 **Passionate About**: Progressive **data-driven solutions** to real-world problems, **quantum mechanics**, and **kindness**  
-- 🐱 **Fun Fact**: I have **two cats** and have seen **every season of *Tales from the Crypt* at least ten times** and I have **over 100 plants in my home**
+- 🐱 **Fun Facts**: I have **two cats**, have seen **every season of *Tales from the Crypt* at least ten times** and I have **over 100 plants in my home**
 
 ---
 
