@@ -43,7 +43,11 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=lauracourtney&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lauracourtney&theme=tokyonight&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauracourtney&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,dotfiles&langs_count=6)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lauracourtney&theme=tokyo-night)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lauracourtney&theme=tokyonight&no-frame=false&no-bg=true&margin-w=5)
+
 
 ---
 
