@@ -42,10 +42,10 @@
 
 ---
 
-### 📊 GitHub Stats  
-### 📊 GitHub Stats  
+### 📊 GitHub Stats   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauracourtney&show_icons=true&theme=radical)
-![GitHub commit count](https://img.shields.io/github/commit-activity/y/lauracourtney?label=Commits%20this%20year)
+![GitHub Metrics](https://github.com/lauracourtney/lauracourtney/blob/main/github-metrics.svg)
+
 ---
 
 ### ☕ Let's Connect!  
