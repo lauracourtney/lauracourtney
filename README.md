@@ -43,11 +43,9 @@
 ---
 
 ### 📊 GitHub Stats  
+### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauracourtney&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lauracourtney&theme=dracula)
-![GitHub Contributions](https://komarev.com/ghpvc/?username=lauracourtney&color=blueviolet)
-[![Gists](https://github-readme-stats.vercel.app/api/gists?username=lauracourtney&theme=gruvbox)](https://gist.github.com/lauracourtney)
-
+![GitHub commit count](https://img.shields.io/github/commit-activity/y/lauracourtney?label=Commits%20this%20year)
 ---
 
 ### ☕ Let's Connect!  
