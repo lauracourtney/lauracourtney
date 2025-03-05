@@ -14,7 +14,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: "repositories"
           plugin_languages: yes
-          plugin_languages_ignored: "HTML, CSS, Markdown"
-          plugin_languages_skipped: "github-readme-stats"
-          plugin_languages_sections: most-used
-          plugin_contributors: yes
+          plugin_isocalendar: yes
+          plugin_lines: yes
+          plugin_followup: yes
