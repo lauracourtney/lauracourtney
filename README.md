@@ -43,11 +43,11 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=lauracourtney&theme=tokyonight&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauracourtney&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,dotfiles&langs_count=6)  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lauracourtney&theme=tokyo-night)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lauracourtney&theme=tokyonight&no-frame=false&no-bg=true&margin-w=5)
-
+![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauracourtney&show_icons=true&theme=radical&hide_title=true&hide_rank=false&hide=prs,issues)  
+[![GitHub Activity Graph](https://github-readme-graph.vercel.app/graph?username=lauracourtney&theme=dracula&hide_border=true)](https://github.com/lauracourtney)  
+![GitHub Contributions](https://komarev.com/ghpvc/?username=lauracourtney&color=blueviolet)  
+[![Gists](https://github-readme-stats.vercel.app/api/gists?username=lauracourtney&theme=gruvbox)](https://gist.github.com/lauracourtney)  
+![GitHub Snake](https://github.com/lauracourtney/lauracourtney/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
