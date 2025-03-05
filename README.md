@@ -44,7 +44,8 @@
 
 ### 📊 GitHub Stats   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauracourtney&show_icons=true&theme=radical)
-![GitHub Metrics](https://github.com/lauracourtney/lauracourtney/blob/main/github-metrics.svg)
+[![GitHub Contribution Graph](https://ghchart.rshah.org/lauracourtney)](https://github.com/lauracourtney)
+
 
 ---
 
